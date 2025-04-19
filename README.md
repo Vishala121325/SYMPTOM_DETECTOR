@@ -1,4 +1,4 @@
-#﻿# SYMPTOM_DETECTOR
+#﻿#  SYMPTOM_DETECTOR
 -- AI-Based Symptom Checker 
      Project Title: 
 -- AI-Powered Disease Prediction and Symptom Checker 
